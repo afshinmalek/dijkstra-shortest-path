@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗺️ Dijkstra Shortest Path — Nearest Field Station
+# 🗺️ Dijkstra Shortest Path - Nearest Field Station
 
 ### Java · Graph Algorithms · Priority Queues
 
@@ -30,9 +30,9 @@ java ShortestPath
 
 ## Files
 
-- `ShortestPath.java` — Dijkstra's algorithm and driver
-- `Edge.java`, `EdgeWeightedGraph.java` — weighted graph representation
-- `IndexMinPQ.java` — indexed minimum priority queue
-- `G50.java` — the 50-node graph data
+- `ShortestPath.java` - Dijkstra's algorithm and driver
+- `Edge.java`, `EdgeWeightedGraph.java` - weighted graph representation
+- `IndexMinPQ.java` - indexed minimum priority queue
+- `G50.java` - the 50-node graph data
 
 > Originally a Data Structures & Algorithms (CIS 27) project, extracted here as a standalone repo from [java-algorithms-and-concurrency](https://github.com/afshinmalek/java-algorithms-and-concurrency).
